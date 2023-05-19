@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 @font-face {
-  font-family: "Gilroy";
-  src: url(./Radomir\ Tinkov\ -\ Gilroy-ExtraBold.otf);
+  font-family: "Le Major";
+  src: url(./LeMajor-Regular.ttf)
 }
 html,
 body {
